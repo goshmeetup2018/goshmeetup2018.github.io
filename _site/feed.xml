@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GOSH 2018 - Student Meetup</title>
+    <description>This website is the official page for the GOSH 2018 student meetup at Gathering for Open Science Hardware conference at Tsinghua University, Shenzhen, China from 10th October to 13th October 2018
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 15 Sep 2018 12:38:22 +0530</pubDate>
+    <lastBuildDate>Sat, 15 Sep 2018 12:38:22 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+  </channel>
+</rss>
