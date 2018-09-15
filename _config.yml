@@ -1,8 +1,8 @@
-title: Your Title
+title: GOSH 2018 - Student Meetup
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  This website is the official page for the GOSH 2018 student meetup at Gathering for Open Science Hardware conference at Tsinghua University, Shenzhen, China from 10th October to 13th October 2018
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "goshmeetup2018.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
