@@ -1,35 +1,23 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
+  name: GOSH 2018 Event
+  info: Read more about the main event
+  link: http://openhardware.science/gosh-2018-faqs/
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Check out the GOSH event agenda
   link: /agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
-
-- inverted: timeline-inverted
+- inverted:
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: Find out where the event is happening
   link: /venue
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-faq.jpeg
   name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
+  info: Have a Question? Many answers can be found right here in FAQs
   link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
