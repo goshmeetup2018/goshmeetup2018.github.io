@@ -1,5 +1,13 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 11:00 AM - 11:30 AM
+  info: "
+  <u>Speech on PSLab open source hardware platform</u><br>
+  <b>Padmal</b><i> - Hardware Developer</i>
+  <br>
+  Introduction to PSLab device and how it can help rural school kids in Sri Lanka to overcome technological barrier due to lack of government funding and facilities"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 4:00 PM - 06:00 PM
+  info: "
+  <u>Student Meetup - I</u><br>
+  <b>Padmal</b><i> - GitHub Campus Expert</i>
+  <br>
+  How a university student can outreach himself to improve fellow members of his university community and how to use existing technologies to support him during the quest"
